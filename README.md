@@ -52,3 +52,14 @@ Auto-remove user on leave
 Edit room name
 Delete room
 Restrict join radius
+
+
+# Backend Setup
+cd backend
+npm install
+npm run dev
+
+# frontend Setup 
+cd frontend
+npm install
+npm run dev
